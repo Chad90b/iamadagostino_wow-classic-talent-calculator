@@ -1,6 +1,7 @@
-# Classic WoW Talent Calculator
+# Classic WoW Talent Planner / Talent Calculator
 A talent calculator for World of Warcraft Classic
-forked from hseager/Classic-WoW-Talent-Planner
+~~forked from hseager/Classic-WoW-Talent-Planner~~
+forked from iamadagostino/Classic-WoW-Talent-Planner
 
 ![screenshot](public/images/screenshot.jpg)
 
@@ -10,6 +11,7 @@ forked from hseager/Classic-WoW-Talent-Planner
 * Import/Export with base64 encoding
 * Supports mobile devices
 * Keeps track of talent path
+* Translated back to English (disregard the old screenshot)
 
 ## To build
 * Clone the repository
