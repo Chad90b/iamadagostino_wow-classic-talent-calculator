@@ -17,5 +17,5 @@ forked from iamadagostino/Classic-WoW-Talent-Planner
 * Clone the repository
 * Install [vue-cli](https://cli.vuejs.org/) | npm install -g vue-cli
 * Run "npm install"
-* To Start Local Development run "npm run serve"
-* To Start Local Production run "npm run build"
+* To start local development run "npm run serve"
+* To start local production run "npm run build"
