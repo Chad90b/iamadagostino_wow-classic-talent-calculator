@@ -1,6 +1,6 @@
 # Classic WoW Talent Planner / Talent Calculator
-A talent calculator for World of Warcraft Classic
-~~forked from hseager/Classic-WoW-Talent-Planner~~
+A talent calculator for World of Warcraft Classic\
+~~forked from hseager/Classic-WoW-Talent-Planner~~\
 forked from iamadagostino/Classic-WoW-Talent-Planner
 
 ![screenshot](public/images/screenshot.jpg)
