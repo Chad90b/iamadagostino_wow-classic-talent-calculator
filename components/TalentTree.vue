@@ -21,7 +21,7 @@
         v-on:decreaseCurrentSkillTier="onDecreaseCurrentSkillTier"
       ></skill>
     </div>
-    <span class="talent-tree-reset" v-on:click="resetTalentTree">Reimposta</span>
+    <span class="talent-tree-reset" v-on:click="resetTalentTree">Reset</span>
   </div>
 </template>
 <script>
