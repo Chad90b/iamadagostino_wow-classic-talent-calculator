@@ -2,7 +2,7 @@
 	<div>
 		<main>
 			<img src="../public/images/wow-classic-logo.png" class="logo" />
-			<h1 class="main-title">Talent Planner</h1>
+			<h1 class="main-title">Talent Planner / Talent Calculator</h1>
 			<ul class="class-list">
 				<class-list
 					v-for="classType in data.classes"
@@ -38,7 +38,7 @@
 		</main>
 		<footer>
 			<p class="footer-info">
-				Blizzard Entertainment can suck throbbing Orc cock.
+				Blizzard Entertainment and Activision can suck throbbing Orc cock.
 				<br />
 			</p>
 		</footer>
@@ -46,7 +46,7 @@
 			<vs-popup
 				class="popup"
 				:background-color-popup="colorx"
-				title="Importa Talenti"
+				title="Import Talents"
 				:active.sync="popupImportActive"
 			>
 				<textarea-autosize
@@ -56,13 +56,13 @@
 					:max-height="350"
 				></textarea-autosize>
 				<button class="button" @click="popupImportMessage">
-					<i class="material-icons md-18">cloud_download</i> Importa
+					<i class="material-icons md-18">cloud_download</i> Import
 				</button>
 			</vs-popup>
 			<vs-popup
 				class="popup"
 				:background-color-popup="colorx"
-				title="Esporta Talenti"
+				title="Export Talents"
 				:active.sync="popupExportActive"
 			>
 				<textarea-autosize
@@ -78,7 +78,7 @@
 			<vs-popup
 				class="popup"
 				:background-color-popup="colorx"
-				title="Esporta Talenti"
+				title="Export Talents"
 				:active.sync="popupExportChoiceActive"
 			>
 				<div class="popup-btns">
