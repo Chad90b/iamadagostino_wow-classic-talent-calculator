@@ -25,9 +25,9 @@
 		"world_of_warcraft"
 		],
 	"bugs": {
-		"url": "https://github.com/iamadagostino/wow-classic-talent-calculator/issues"
+		"url": "https://github.com/Chad90b/iamadagostino_wow-classic-talent-calculator/issues"
 	},
-	"homepage": "https://github.com/iamadagostino/wow-classic-talent-calculator#readme",
+	"homepage": "https://github.com/Chad90b/iamadagostino_wow-classic-talent-calculator#readme",
 	"dependencies": {
 		"babel-preset-env": "^1.7.0",
 		"core-js": "^2.6.5",
