@@ -2,7 +2,7 @@
 	"name": "wow-classic-talent-calculator",
 	"version": "1.1.1-eng",
 	"description": "A talent planner / talent calculator for World of Warcraft Classic",
-	"author": "Harvey Seager (original), Angelo D'Agostino, Chad90b"
+	"author": "Harvey Seager (original), Angelo D'Agostino, Chad90b",
 	"license": "ISC",
 	"private": true,
 	"scripts": {
